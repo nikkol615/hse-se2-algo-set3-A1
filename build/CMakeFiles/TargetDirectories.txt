@@ -1,0 +1,3 @@
+/Users/nikko/Documents/hse_cpp/set3/A1/build/CMakeFiles/A1.dir
+/Users/nikko/Documents/hse_cpp/set3/A1/build/CMakeFiles/edit_cache.dir
+/Users/nikko/Documents/hse_cpp/set3/A1/build/CMakeFiles/rebuild_cache.dir

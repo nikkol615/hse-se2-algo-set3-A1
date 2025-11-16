@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/A1.dir/main.cpp.o CMakeFiles/A1.dir/Circle.cpp.o CMakeFiles/A1.dir/intersArea.cpp.o -o A1
